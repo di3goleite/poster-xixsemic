@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.10.18)  19 OCT 2015 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.10.18)  19 OCT 2015 01:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1758,65 +1758,65 @@ Overfull \hbox (28.73697pt too wide) detected at line 44
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 <img1.png, id=19, 709.65125pt x 301.125pt>
 File: img1.png Graphic file (type png)
  <use img1.png>
-Package pdftex.def Info: img1.png used on input line 130.
+Package pdftex.def Info: img1.png used on input line 146.
 (pdftex.def)             Requested size: 1083.3149pt x 459.6951pt.
 
 <img2.png, id=20, 763.85374pt x 402.50375pt>
 File: img2.png Graphic file (type png)
  <use img2.png>
-Package pdftex.def Info: img2.png used on input line 130.
+Package pdftex.def Info: img2.png used on input line 146.
 (pdftex.def)             Requested size: 1083.3149pt x 570.91444pt.
 
 <img3.png, id=21, 870.25125pt x 421.575pt>
 File: img3.png Graphic file (type png)
  <use img3.png>
-Package pdftex.def Info: img3.png used on input line 130.
+Package pdftex.def Info: img3.png used on input line 146.
 (pdftex.def)             Requested size: 1083.3149pt x 524.86395pt.
 
 <img4.png, id=22, 610.28pt x 566.115pt>
 File: img4.png Graphic file (type png)
  <use img4.png>
-Package pdftex.def Info: img4.png used on input line 130.
+Package pdftex.def Info: img4.png used on input line 146.
 (pdftex.def)             Requested size: 541.65744pt x 502.47592pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 File: uefs.png Graphic file (type png)
 <use uefs.png>
-Package pdftex.def Info: uefs.png used on input line 130.
+Package pdftex.def Info: uefs.png used on input line 146.
 (pdftex.def)             Requested size: 185.34042pt x 276.09991pt.
 File: lacad.png Graphic file (type png)
  <use lacad.png>
-Package pdftex.def Info: lacad.png used on input line 130.
+Package pdftex.def Info: lacad.png used on input line 146.
 (pdftex.def)             Requested size: 185.34042pt x 196.47025pt.
 
 Overfull \hbox (28.73697pt too wide) has occurred while \output is active
@@ -1836,19 +1836,19 @@ Overfull \hbox (28.73697pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `poster.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./poster.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `poster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
  23590 strings out of 495020
  461226 string characters out of 6181323
- 565774 words of memory out of 5000000
+ 565795 words of memory out of 5000000
  26216 multiletter control sequences out of 15000+600000
  80633 words of font info for 110 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
